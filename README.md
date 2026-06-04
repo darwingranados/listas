@@ -16,6 +16,6 @@ Enlace:
 5. Bucles
 6. Funciones
 ## Reflexión final
-Tema que más comprendí:tiena.py
-Tema que más me costó:
-Aprendizaje principal:
+Tema que más comprendí:Tiendas.py
+Tema que más me costó:lista.py
+Aprendizaje principal:aprendí codificar los codigos
